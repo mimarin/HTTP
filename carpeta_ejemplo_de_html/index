@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<!-- sin estilo, solo elementos -->
+<!-- ver mas elementos en http://www.w3schools.com/tags/ref_byfunc.asp -->
+<html>
+<head>
+    <meta charset="UTF-8"/>
+    <title> HTML 1 - v1</title>
+    <link href="https://fonts.googleapis.com/css?family=Abril+Fatface" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Concert+One" rel="stylesheet">
+
+
+    <style type="text/css">
+    body {
+        background: linear-gradient(to right, crimson , gold);
+    }
+
+    .caja{
+        width: 600px;
+        background: snow  ;
+        padding: 150px;
+        margin: 180px;
+    }
+
+    img {
+        width: 400px;
+        padding: 10px;
+        margin: 0px;
+    }
+
+    h1{
+
+        width: 700px;
+        padding: 100px;
+        font-family: "Courier";
+        font-size: 50px;
+        color: white;
+    }
+
+    h2{
+
+        padding: 2px;
+        font-family: "Courier";
+        font-size: 32px;
+        color: crimson;
+
+    }
+
+    h3{
+
+        padding: 2px;
+        font-family: "Courier";
+        font-size: 26px;
+        color: crimson;
+
+    }
+
+    p{
+
+        padding: 2px;
+        font-family: "Fira sans";
+        font-size: 18px;
+        color: crimson;
+    }
+
+</style>
+
+
+</head>
+
+
+<body>
+
+    <div id="container">
+        <h1> Accurat </h1>
+
+        <div class="caja">
+            <h2>ACCURAT DATA PORTRAIT</h2>
+            <img src="img/01.png">
+              <p>“Donde otros ven complejidad, vemos belleza . Y valor .” Así abre su página web, el estudio de diseño de información Accurat. Un estudio de diseño inteligente que busca llevar el estudio de datos a su máxima expresión. Llevando datos simples a un análisis muy profundo y datos complejos a una visualización clara y simple a los ojos de los receptores de la información. Desde un análisis de las votaciones presidenciales del año 2016, hasta un espacio de intervención en el MoMA. Proyectos únicos, creativos y desafiantes marcados por el trabajo inteligente y en conjunto con el cliente para llegar a soluciones sorprendentes.
+</a></p>
+        </div>
+
+        <div class="caja">
+            <h2>DATA PORTRAITS AT TED 2017</h2>
+            <img src="img/02.jpg">
+              <p>El proyecto busca generar una conexión entre los asistentes al espacio Target de charlas TED del año 2017 en Vancouver. Se crearon diseños de retratos visuales únicos de los asistentes por medio de la interpretación de datos a travez de preguntas concretas y simples pero que puedan abrir un espacio de conversación entre los asistentes.
+Cada pregunta tiene alternativas, representadas con algún tipo de intervención en el soporte y con esto se va generando el diseño que luego es impreso en una chapita que los asistentes usaron con orgullo durante todas las charlas.
+Lo esencial de este proyecto es que utiliza los datos como medio para llegar a algo mucho más profundo que habla de algo mucho más cualitativo, de la esencia de la persona, de su lado más humano.
+ </p>
+        </div>
+
+        <div class="caja">
+            <h2>LENGUAJE ABSTRACTO</h2>
+            <img src="img/03.jpg">
+              <p>Se utiliza un lenguaje abstracto que forma una obra de arte pero que va mucho más allá de lo estético, contiene información relevante y profunda de cada persona en particular y además permite interpretar de una manera libre y más humana, las características de las personas que se están representando. Este lenguaje es utilizado además para poder generar instancias de conversación entre las personas, relacionar puntos comunes y poder conectarse.
+ </p>
+        </div>
+
+        <div class="caja">
+            <h2>ICONOGRAFÍA</h2>
+            <img src="img/04.png">
+              <p>La iconografía por medio de trazos simples y fáciles de reconocer permiten al receptor de la información poder analizar de manera general a la persona que porta su retrato visual de una manera eficiente y concreta y que además representa una característica muy particular de la persona. </p>
+        </div>
+
+        <div class="caja">
+            <h2>SISTEMATIZACIÓN</h2>
+            <img src="img/05.png">
+              <p>La diseñadora Giorgia Lupi fue la encargada de el dibujo en vivo de estos retratos visuales personalizados. A medida que las personas respondían la encuesta ella se dedicaba a transformar esas respuestas en un conjunto de símbolos y trazos que finalmente conformaban parte de la identidad de la persona encuestada. Además se desarrolló una aplicación para los más impacientes en donde se les podía generar de manera automática el diseño de su retrato visual.
+ </p>
+ <mp4 src="mp4/001.mp4">
+        </div>
+
+        <div class="caja">
+            <h2>¿Y SI SOLO FUÉRAMOS 100? POR CRISTIÁN FIOL</h2>
+            <img src="img/06.jpg">
+            <p>La infografía anterior se muestra arriba la historia del sistema solar en un año, abajo información sobre el cambio climático y la huella de carbono y en el centro se muestra datos de toda la población mundial si sólo fuésemos 100 personas, en esta última nos centraremos y profundizaremos en las características principales para realizar la comparación con los “DATA PORTRAIT”. <a href="http://infografias.elmercurio.com/INFOGRAFIA_Cristian_Fiol/infografia/modulo_info11/11.jpg" target="_blank">Infografías El Mercurio</a></p>
+
+        </div>
+
+        <div class="caja">
+            <h2>COMPARACIÓN</h2
+
+        <div class="caja">
+            <h3>LENGUAJE: figurativo vs abstracto</h3>
+
+            <img src="img/08.png">
+              <p>En los retratos de datos para TED 2017, se utiliza un lenguaje abstracto, con simbología poco intuitiva y específica para los participantes al evento v/s en la infografía de “El mercurio” se pueden ver pictogramas reconocidos universalmente y fáciles de comprender a simple vista.  </p>
+        </div>
+
+        <div class="caja">
+            <h3>TIPO DE INFORMACIÓN: cuantitativo vs cualitativo</h3>
+            <img src="img/09.png">
+              <p>Ambas representaciones también se contraponen en la información que rescatan sobre las personas y su carácter. Ambos se centran en lo particular de cada persona, sin embargo la visualización de accurat va más hacia lo particular, por ejemplo preguntando el estado de su escritorio, si es desordenado o más bien minimalista. Mientras que la infografía del mercurio arroja datos más amplios como la distribución de la población según continente. En este ámbito se contraponen lo que son los datos estadÍsticos globales tales como las enfermedades que puedan tener, con la forma de ser que estos 100 individuos podrían llegar a tener y contar por ejemplo, con cuántos mails sin leer ya no soportan la ansiedad. </p>
+        </div>
+
+        <div class="caja">
+            <h3>FINALIDAD: resultados general vs particular</h3>
+            <img src="img/10.png">
+              <p>En los data portraits podemos hacernos una idea más cercana de la persona al ver la chapita y debemos entenderlas a cada una por separado, que es lo que le de riqueza a estos resultados, lo particular que rescatan. Mientras que por otro lado, la finalidad de la infografía del mercurio es hacernos una idea de quienes somos en el mundo y deja en evidencia cómo somos las personas que habitamos en él hoy, la idea es entender a nivel general los datos como un todo y así comprender un conjunto de personas. </p>
+        </div>
+
+        <div class="caja">
+            <h3>EN COMÚN: estandarización de las carácteristicas de las personas</h3>
+            <img src="img/11.png"><img src="img/12.png">
+              <p>En ambos se ponen parámetros que luego van a dividir a las personas. Es muy común este tipo de recolección de datos, sin embargo lo que parece más obvio es ordenarlos en los gráficos cotidianos que ya todos conocemos como lo son el gráfico de barras, el circular, de puntos, etc. Sin embargo en ambos casos se logra mostrar la información de una manera didáctica, donde los datos se ven conectados, entrelazados entre sí con lo que se da paso a un análisis general que luego entrega información muy particular. </p>
+        </div>
+
+        <div class="caja">
+            <h2>CONCLUSIONES</h2>
+
+            <p> Para realizar una verdadera visualización de datos se debe hilar fino y hacer un estudio profundo que no va solo de la mano de datos concretos, debe ir más allá, como dice la diseñadora de Accurate “Para comprender los datos y su potencial, a veces hay que olvidarlos y ver a través de ellos”. Los datos hablan mucho más que cantidades, lugares, características, actividades, etc. Nos hablan de un universo de probabilidades que al conectarse nos permiten entender a cabalidad lo que se quiere dar a conocer.
+              Al entender la información que se busca representar se puede generar una plataforma y un estilo de diseño que realmente la pueda expresar de una manera única. Si esque se piensa en profundidad y con creatividad se pueden olvidar los gráficos de barras y comenzar a expresar información de manera más cercana y que se vuelvan verdaderas obras de arte.
+
+
+ <a href="https://www.ted.com/talks/giorgia_lupi_how_we_can_find_ourselves_in_data#t-65774" target="_blank">Giorgia Lupi TED</a></p>
+
+        </div>
+
+
+    </div>
+
+
+</body>
+</html>
